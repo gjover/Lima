@@ -1,3 +1,33 @@
+[submodule "camera/basler"]
+	path = camera/basler
+	url = https://github.com/gjover/Lima-camera-basler.git
+[submodule "camera/pilatus"]
+	path = camera/pilatus
+	url = https://github.com/gjover/Lima-camera-pilatus.git
+[submodule "applications/tango"]
+	path = applications/tango
+	url = https://github.com/gjover/Lima-tango.git
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/gjover/Lima-documentation.git
+[submodule "camera/xpad"]
+	path = camera/xpad
+	url = https://github.com/gjover/Lima-camera-xpad.git
+[submodule "camera/marccd"]
+	path = camera/marccd
+	url = https://github.com/gjover/Lima-camera-marccd.git
+[submodule "camera/adsc"]
+	path = camera/adsc
+	url = https://github.com/gjover/Lima-camera-adsc.git
+[submodule "camera/mythen"]
+	path = camera/mythen
+	url = https://github.com/gjover/Lima-camera-mythen.git
+[submodule "third-party/CCfits"]
+	path = third-party/CCfits
+	url = git://git.epn-campus.eu/repositories/CCfits.git
+[submodule "third-party/cfitsio"]
+	path = third-party/cfitsio
+	url = git://git.epn-campus.eu/repositories/cfitsio.git
 [submodule "third-party/CBFLib"]
 	path = third-party/CBFLib
 	url = git://git.epn-campus.eu/repositories/CBFlib.git
@@ -6,37 +36,7 @@
 	url = git://git.epn-campus.eu/repositories/Sps.git
 [submodule "third-party/Processlib"]
 	path = third-party/Processlib
-	url = git://git.epn-campus.eu/repositories/Processlib.git
-[submodule "camera/basler"]
-	path = camera/basler
-	url = git://git.epn-campus.eu/repositories/LimaCameraBasler
-[submodule "camera/pilatus"]
-	path = camera/pilatus
-	url = git://git.epn-campus.eu/repositories/LimaCameraPilatus
-[submodule "applications/tango"]
-	path = applications/tango
-	url = git://git.epn-campus.eu/repositories/LimaTango
-[submodule "documentation"]
-	path = documentation
-	url = git://git.epn-campus.eu/repositories/LimaDocumentation
+	url = https://github.com/gjover/Processlib.git
 [submodule "third-party/yat"]
 	path = third-party/yat
-	url = git://git.epn-campus.eu/repositories/yat
-[submodule "camera/xpad"]
-	path = camera/xpad
-	url = git://git.epn-campus.eu/repositories/LimaCameraXpad
-[submodule "camera/marccd"]
-	path = camera/marccd
-	url = git://git.epn-campus.eu/repositories/LimaCameraMarCCD
-[submodule "camera/adsc"]
-	path = camera/adsc
-	url = git://git.epn-campus.eu/repositories/LimaCameraADSC
-[submodule "camera/mythen"]
-	path = camera/mythen
-	url = git://git.epn-campus.eu/repositories/LimaCameraMythen
-[submodule "third-party/CCfits"]
-	path = third-party/CCfits
-	url = git://git.epn-campus.eu/repositories/CCfits
-[submodule "third-party/cfitsio"]
-	path = third-party/cfitsio
-	url = git://git.epn-campus.eu/repositories/cfitsio
+	url = git://git.epn-campus.eu/repositories/yat.git
