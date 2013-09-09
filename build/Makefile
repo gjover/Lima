@@ -373,7 +373,7 @@ endif
 ############################
 
 ifneq ($(COMPILE_MARCCD),0)
-LDFLAGS         += -L../third-party/yat/src/.libs -L../../lib
+LDFLAGS         += -L../third-party/yat/build/src/.libs -L../../lib
 LDFLAGS		+= -lyat -lrt
 		 
 
