@@ -40,3 +40,9 @@
 [submodule "third-party/yat"]
 	path = third-party/yat
 	url = git://git.epn-campus.eu/repositories/yat.git
+[submodule "camera/rayonixhs"]
+	path = camera/rayonixhs
+	url = https://github.com/gjover/Lima-camera-rayonixhs.git
+[submodule "camera/pco"]
+	path = camera/pco
+	url = https://github.com/gjover/Lima-camera-pco.git
